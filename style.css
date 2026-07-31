@@ -102,8 +102,8 @@ section {
 }
 
 .game img {
-    width: 420px;
-    height: 220px;
+    width: 1320px;
+    height: 620px;
     border-radius: 8px;
     margin-bottom: 15px; /* Space between image and text */
     object-fit: cover;
